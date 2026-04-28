@@ -1,0 +1,20 @@
+
+.SALMA{
+    background-color: blueviolet;
+    color: green;
+    text-align: center;
+}
+.footer{
+    background-color: sienna;
+    color: navy;
+    padding: 20px;
+    text-align: center;
+}
+salma{
+    background-color: gold;
+    color: aqua;
+    text-align: center;
+}
+body{
+    background-color:aquamarine
+}
